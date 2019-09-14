@@ -1,0 +1,8 @@
+{
+  "name": "VUTTR",
+  "version": "1.0.0",
+  "description": "Gestão de Ferramentas",
+  "main": "index.js",
+  "author": "GabrielGQA",
+  "license": "MIT"
+}
